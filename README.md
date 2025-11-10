@@ -1,2 +1,2 @@
-# ase-tutorials
-Collection of tutorial test repos for AI Software Engineer project
+# ASE Tutorials
+Collection of tutorial test repos for the AI Software Engineer project
